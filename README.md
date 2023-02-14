@@ -11,14 +11,15 @@
 - Born in Fukushima (Japan🇯🇵)
 
 ## Skills
-Laungage / Framework / Library
+Laungage / Framework
 <p>
   <img src="https://img.shields.io/badge/-Java-2F2625.svg?logo=java&style=flat">
   <img src="https://img.shields.io/badge/-Go-EEE.svg?logo=go&style=flat">
+  <img src="https://img.shields.io/badge/-Apache%20Maven-C71A36.svg?logo=apache-maven&style=flat">
   <img src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat">
 </p>
 
-SW / Middleware
+[SW] Middleware / OSS
 <p>
   <img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat">
   <img src="https://img.shields.io/badge/-Apache%20Tomcat-6C6694.svg?logo=apache-tomcat&style=flat">
