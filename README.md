@@ -17,6 +17,8 @@ Laungage / Framework
   <img src="https://img.shields.io/badge/-Go-EEE.svg?logo=go&style=flat">
   <img src="https://img.shields.io/badge/-Apache%20Maven-C71A36.svg?logo=apache-maven&style=flat">
   <img src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat">
+  <img src="https://img.shields.io/badge/-Spring-bfcfcf.svg?logo=spring&style=flat">
+  <img src="https://img.shields.io/badge/-Spring%20Boot-bfcfcf.svg?logo=spring-boot&style=flat">
 </p>
 
 [SW] Middleware / OSS
@@ -56,8 +58,6 @@ Other
 Learning Now
 <p>
   <img src="https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=flat">
-  <img src="https://img.shields.io/badge/-Spring-bfcfcf.svg?logo=spring&style=flat">
-  <img src="https://img.shields.io/badge/-Spring%20Boot-bfcfcf.svg?logo=spring-boot&style=flat">
 </p>
 
 <!---
