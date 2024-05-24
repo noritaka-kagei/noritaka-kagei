@@ -6,19 +6,18 @@
 </p>
 
 ## Profile
-- I'm working as a Engineer at <img src="https://img.shields.io/badge/-NEC-1414A0.svg?logo=nec&style=flat"> Corporation
+- I'm working as an Engineer at <img src="https://img.shields.io/badge/-NEC-1414A0.svg?logo=nec&style=flat"> Corporation
 - Graduated from the University of Aizu
 - Born in Fukushima (Japan🇯🇵)
 
 ## Skills
-Laungage / Framework
+Language / Framework
 <p>
   <img src="https://img.shields.io/badge/-Java-2F2625.svg?logo=java&style=flat">
   <img src="https://img.shields.io/badge/-Go-EEE.svg?logo=go&style=flat">
-  <img src="https://img.shields.io/badge/-Apache%20Maven-C71A36.svg?logo=apache-maven&style=flat">
-  <img src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat">
   <img src="https://img.shields.io/badge/-Spring-bfcfcf.svg?logo=spring&style=flat">
   <img src="https://img.shields.io/badge/-Spring%20Boot-bfcfcf.svg?logo=spring-boot&style=flat">
+<!--   <img src="https://img.shields.io/badge/-Apache%20Maven-C71A36.svg?logo=apache-maven&style=flat"> -->
 </p>
 
 [SW] Middleware / OSS
@@ -53,11 +52,6 @@ Other
 <p>
   <img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00.svg?logo=buy-me-a-coffee&style=flat">
   <img src="https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF.svg?logo=adobe-after-effects&style=flat">
-</p>
-
-Learning Now
-<p>
-  <img src="https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=flat">
 </p>
 
 <!---
