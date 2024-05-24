@@ -1,4 +1,4 @@
-# Hi 👋, I'm Noritaka Kagei 👨
+# 👋Hi, I'm Noritaka Kagei 👨
 
 <p align="center">
   <a href="https://github.com/noritaka-kagei"><img src="https://img.shields.io/github/followers/noritaka-kagei.svg?label=GitHub&style=social" alt="GitHub"></a>
@@ -6,9 +6,7 @@
 </p>
 
 ## Profile
-- I'm working as an Engineer at <img src="https://img.shields.io/badge/-NEC-1414A0.svg?logo=nec&style=flat"> Corporation
-- Graduated from the University of Aizu
-- Born in Fukushima (Japan🇯🇵)
+Developer (<img src="https://img.shields.io/badge/-NEC-1414A0.svg?logo=nec&style=flat"> Corporation)
 
 ## Skills
 Language / Framework
